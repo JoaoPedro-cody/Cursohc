@@ -32,32 +32,7 @@
             nav :hover:before {
                 background-color: #EB5E28;
             }
-
-            #button {
-                display: inline-block;
-                background-color: #403D39;
-                padding: 18px 20px;
-                box-shadow: 5px 5px 0px #252422;
-                margin: 0px;
-                transition: transform 0.2s ease-in-out;
-                }
-            #button:hover {
-                background-color: #EB5E28;
-                transform: scale(1.1);
-            }
-            .button {
-                display: inline-block;
-                background-color: #403D39;
-                padding: 18px 20px;
-                transition: transform 0.2s ease-in-out;
-                box-shadow: 5px 5px 0px #252422;
-
-                                
-            }
-            .button:hover {
-                background-color: #EB5E28;
-                transform: scale(1.1);
-            }
+ 
 
                 
               
