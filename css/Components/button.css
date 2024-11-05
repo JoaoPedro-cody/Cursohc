@@ -5,6 +5,8 @@
     box-shadow: 5px 5px 0px #252422;
     margin: 0px;
     transition: transform 0.2s ease-in-out;
+    text-decoration: none;
+    color: #fff;
     }
 .button:hover {
     background-color: #EB5E28;
