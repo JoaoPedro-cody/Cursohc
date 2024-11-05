@@ -1,14 +1,14 @@
 .button {
     display: inline-block;
-    background-color: #403D39;
+    background-color: #011627;
     padding: 18px 20px;
     box-shadow: 5px 5px 0px #252422;
     margin: 0px;
     transition: transform 0.2s ease-in-out;
     text-decoration: none;
-    color: #fff;
+    color: #fdfffc;
     }
 .button:hover {
-    background-color: #EB5E28;
+    background-color: #f3c32b;
     transform: scale(1.1);
 }
