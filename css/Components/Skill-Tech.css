@@ -1,11 +1,13 @@
 .Skill-Tech {
     display: flex;
+    align-items: center;
     font-family: 'Press Start 2P', sans-serif;
     font-size: 20px;
     color: #fdfffc;
 }
 .Skill-Tech .icon {
     margin-right: 25px;
+    width: 90px;
 }
 .Skill-Tech .right {
     display: flex;
