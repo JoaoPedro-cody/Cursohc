@@ -4,7 +4,14 @@
     border: 5px solid #011627;
     height: 40px;
 }
-.progress-bar::-webkit-progress-bar,
+
 .progress-bar::-moz-progress-bar {
     background-color: #f3c32b;
 }
+progress::-webkit-progress-bar {
+    background-color: #e0e0e0;
+  }
+  
+  progress::-webkit-progress-value {
+    background-color: #f3c32b;
+  }

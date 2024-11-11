@@ -1,0 +1,8 @@
+.main-footer {
+    display: flex;
+    justify-content: center;
+    background-color: #011627;
+}
+.main-footer .icon-medias {
+    margin-left: 30px;
+}
