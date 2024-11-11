@@ -7,6 +7,7 @@
     transition: transform 0.2s ease-in-out;
     text-decoration: none;
     color: #fdfffc;
+    cursor: pointer;
     }
 .main-button:hover {
     background-color: #e71d36;
@@ -33,6 +34,6 @@
 }
 .main-button.-enviar:hover {
     background-color: #e71d36;
-    transform: scale(1.1);
+    transform: scale(1.01);
 
 }
